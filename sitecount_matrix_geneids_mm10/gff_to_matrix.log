@@ -1,0 +1,5 @@
+Code output on Wed Jun 14 08:33:09 2017
+Command line inputs:
+python /Home/jyeung/projects/motevo_scripts/generate_sitecount_matrix/gff_to_matrix_sitecount.py /scratch/el/weekly/jyeung/mm10_sites_v2.gff /scratch/el/weekly/jyeung/mm10_sites_v2_matrix.txt --logfile /scratch/el/weekly/jyeung/gff_to_matrix.log
+Argparse variables:
+outfile=/scratch/el/weekly/jyeung/mm10_sites_v2_matrix.txt logfile=/scratch/el/weekly/jyeung/gff_to_matrix.log infile=/scratch/el/weekly/jyeung/mm10_sites_v2.gff quiet=False

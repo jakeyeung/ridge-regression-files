@@ -1,0 +1,7 @@
+Code output on Wed Jun 14 08:33:30 2017
+Command line inputs:
+python /Home/jyeung/projects/motevo_scripts/generate_sitecount_matrix/annotate_promoters_in_mat.py /scratch/el/weekly/jyeung/mm10_promoters_v2.gff /scratch/el/weekly/jyeung/mm10_sites_v2_matrix.txt /scratch/el/weekly/jyeung/mm10_sites_v2_matrix.annotated.txt
+Argparse variables:
+outfile=/scratch/el/weekly/jyeung/mm10_sites_v2_matrix.annotated.txt annotfile=/scratch/el/weekly/jyeung/mm10_promoters_v2.gff infile=/scratch/el/weekly/jyeung/mm10_sites_v2_matrix.txt quiet=False
+Indexing promoters
+Annotating sitecount matrix
